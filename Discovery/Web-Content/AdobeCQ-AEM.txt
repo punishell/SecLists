@@ -225,3 +225,5 @@
 /bin/backdoor.html?cmd=ifconfig
 /libs/opensocial/proxy?.css
 /etc/mobile/useragent-test.html
+/bin/groovyconsole/post.servlet
+/etc/acs-tools/aem-fiddle/_jcr_content.run.html
